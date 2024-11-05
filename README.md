@@ -28,20 +28,23 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.apachefriends.org/" title="xampp"><img width="32px" src="icons/xampp.svg" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML" title="html"><img width="32px" src="icons/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/css" title="css"><img width="32px" src="icons/css.png" /></a>
 <a href="https://getbootstrap.com/" title="bootstrap"><img width="42px" src="icons/bootstrap.png" /></a>
 <a href="https://tailwindcss.com/" title="tailwind"><img width="52px" src="icons/tailwind.png" /></a>
 <a href="https://sass-lang.com/" title="sass"><img width="42px" src="icons/sass.png" /></a>
 
-<h3 align="left">Learning:</h3>
+<h3 align="left">Tools:</h3>
+
+<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
+<a href="https://www.apachefriends.org/" title="xampp"><img width="32px" src="icons/xampp.svg" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+
+<h3 align="left">Currently Learning:</h3>
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
@@ -57,11 +60,11 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <h3 align="left">Contact Me on:</h3>
 
-<a href="https://t.me/mahan_mann" title="telegram"><img width="28px" src="icons/telegram.png" /></a>
-<a href="https://api.whatsapp.com/send?phone=989123336474" title="whatsapp"><img width="22px" src="icons/whatsapp.png" /></a>
-<a href="mailto: mahan.manouchehri.dev@gmail.com" title="gmail"><img width="32px" src="icons/gmail.png" /></a>
-<a href="https://damavand-it.com/" title="damavand"><img width="22px" src="icons/damavand.png" /></a>
-<a href="https://mahanman.ir/" title="site"><img width="28px" src="icons/site.png" /></a>
+<a href="https://t.me/mahan_mann" title="Telegram"><img width="28px" src="icons/telegram.png" /></a>
+<a href="https://api.whatsapp.com/send?phone=989123336474" title="Whatsapp"><img width="22px" src="icons/whatsapp.png" /></a>
+<a href="mailto: mahan.manouchehri.dev@gmail.com" title="Email"><img width="32px" src="icons/gmail.png" /></a>
+<a href="https://damavand-it.com/" title="Damavand"><img width="22px" src="icons/damavand.png" /></a>
+<a href="https://mahanman.ir/" title="WebSite"><img width="28px" src="icons/site.png" /></a>
 
 **Currently focused on developing:**
 
