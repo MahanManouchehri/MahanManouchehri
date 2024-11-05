@@ -23,6 +23,12 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 [![YouTube](icons/youtube.png)](https://www.youtube.com/@Damavand-it)
 [![Twitter](icons/twitter.png)](https://x.com/MahanManouchehr)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/mhn.man)
+<a href="https://t.me/mahan_mann" title="Telegram"><img width="28px" src="icons/telegram.png" /></a>
+<a href="https://api.whatsapp.com/send?phone=989123336474" title="Whatsapp"><img width="22px" src="icons/whatsapp.png" /></a>
+<a href="mailto: mahan.manouchehri.dev@gmail.com" title="Email"><img width="32px" src="icons/gmail.png" /></a>
+<a href="https://damavand-it.com/" title="Damavand"><img width="22px" src="icons/damavand.png" /></a>
+<a href="https://mahanman.ir/" title="WebSite"><img width="28px" src="icons/site.png" /></a>
+
 
 <h3 align="left">Currently working with:</h3>
 
@@ -60,11 +66,6 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <h3 align="left">Contact Me on:</h3>
 
-<a href="https://t.me/mahan_mann" title="Telegram"><img width="28px" src="icons/telegram.png" /></a>
-<a href="https://api.whatsapp.com/send?phone=989123336474" title="Whatsapp"><img width="22px" src="icons/whatsapp.png" /></a>
-<a href="mailto: mahan.manouchehri.dev@gmail.com" title="Email"><img width="32px" src="icons/gmail.png" /></a>
-<a href="https://damavand-it.com/" title="Damavand"><img width="22px" src="icons/damavand.png" /></a>
-<a href="https://mahanman.ir/" title="WebSite"><img width="28px" src="icons/site.png" /></a>
 
 **Currently focused on developing:**
 
