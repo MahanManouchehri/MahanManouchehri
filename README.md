@@ -18,16 +18,11 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <h3 align="left">Social Media:</h3>
 
+[![Instagram](icons/instagram.png)](https://www.instagram.com/mhn.man)
 [![GitHub](icons/github.png)](https://github.com/MahanManouchehri)
 [![GitLab](icons/gitlab.png)](https://gitlab.com/mahan.m.o.app)
-[![YouTube](icons/youtube.png)](https://www.youtube.com/@Damavand-it)
 [![Twitter](icons/twitter.png)](https://x.com/MahanManouchehr)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/mhn.man)
-[![Telegram](icons/telegram.png)](https://t.me/mahan_mann)
-[![Whatsapp](icons/whatsapp.png)](https://api.whatsapp.com/send?phone=989123336474)
-[![Damavand](icons/damavand.png)](https://damavand-it.com/)
-[![WebSite](icons/site.png)](https://mahanman.ir/)
-<a href="mailto: mahan.manouchehri.dev@gmail.com" title="Email"><img width="32px" src="icons/gmail.png" /></a>
+[![YouTube](icons/youtube.png)](https://www.youtube.com/@Damavand-it)
 
 <h3 align="left">Currently working with:</h3>
 
@@ -63,8 +58,13 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://sublime.com/" title="sublime"><img width="32px" src="icons/sublime.png" /></a>
 
-<!-- <h3 align="left">Contact Me on:</h3> -->
+<h3 align="left">Contact Me on:</h3>
 
+<a href="https://t.me/mahan_mann" title="Telegram"><img width="28px" src="icons/telegram.png" /></a>
+<a href="https://api.whatsapp.com/send?phone=989123336474" title="Whatsapp"><img width="22px" src="icons/whatsapp.png" /></a>
+<a href="mailto: mahan.manouchehri.dev@gmail.com" title="Email"><img width="32px" src="icons/gmail.png" /></a>
+<a href="https://damavand-it.com/" title="Damavand"><img width="22px" src="icons/damavand.png" /></a>
+<a href="https://mahanman.ir/" title="WebSite"><img width="28px" src="icons/site.png" /></a>
 
 **Currently focused on developing:**
 
