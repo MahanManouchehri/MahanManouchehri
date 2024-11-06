@@ -4,7 +4,7 @@
 
 
 <!-- Transforming Ideas into Digital Magic ! -->
-CEO & TeamLead in @DamavandIT, With over four years of experience, I blend front-end finesse with back-end expertise, crafting powerful, user-friendly web solutions. Starting my coding journey at 16, I initially focused on creating responsive interfaces before immersing myself in PHP and Laravel. My professional experience spans three years, backed by a solid foundation from Sharif Technology Tower under Sharif University of Technology.
+CEO & TeamLead in <a href="https://github.com/DamavandIT"> @DamavandIT </a> , With over four years of experience, I blend front-end finesse with back-end expertise, crafting powerful, user-friendly web solutions. Starting my coding journey at 16, I initially focused on creating responsive interfaces before immersing myself in PHP and Laravel. My professional experience spans three years, backed by a solid foundation from Sharif Technology Tower under Sharif University of Technology.
 
 From designing intuitive UIs to building complex trading platforms like FE-26 (PooyaPH), I turn web challenges into seamless solutions. While my strengths lie in back-end development, I’m constantly evolving across the stack. Ready to bring innovative projects to life? Let’s make it happen.
 
