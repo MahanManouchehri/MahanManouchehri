@@ -27,14 +27,14 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://www.mariadb.com/" title="MySQL"><img src="icons/mariadb.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML" title="html"><img width="32px" src="icons/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/css" title="css"><img width="32px" src="icons/css.png" /></a>
 <a href="https://getbootstrap.com/" title="bootstrap"><img width="42px" src="icons/bootstrap.png" /></a>
 <a href="https://tailwindcss.com/" title="tailwind"><img width="52px" src="icons/tailwind.png" /></a>
 <a href="https://sass-lang.com/" title="sass"><img width="42px" src="icons/sass.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 
 <h3 align="left">Tools:</h3>
 
