@@ -39,14 +39,14 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
 <a href="https://www.apachefriends.org/" title="xampp"><img width="32px" src="icons/xampp.svg" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img width="32px" src="icons/docker.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 <h3 align="left">Currently Learning:</h3>
 
-<a href="https://nodejs.org/" title="React"><img src="icons/nodejs.png" /></a>
+<a href="https://nodejs.org/" title="React"><img width="32px" src="icons/nodejs.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 
 <h3 align="left">Previously worked with:</h3>
@@ -56,7 +56,7 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://sublime.com/" title="sublime"><img width="32px" src="icons/sublime.png" /></a>
-<a href="https://nextjs.org/" title="React"><img src="icons/nextjs.png" /></a>
+<a href="https://nextjs.org/" title="React"><img width="32px" src="icons/nextjs.png" /></a>
 <a href="https://react.dev/" title="React"><img src="icons/react.png" /></a>
 
 <h3 align="left">Contact Me on:</h3>
