@@ -29,6 +29,7 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://www.mariadb.com/" title="MySQL"><img src="icons/mariadb.png" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML" title="html"><img width="32px" src="icons/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/css" title="css"><img width="32px" src="icons/css.png" /></a>
 <a href="https://getbootstrap.com/" title="bootstrap"><img width="42px" src="icons/bootstrap.png" /></a>
@@ -40,6 +41,7 @@ From designing intuitive UIs to building complex trading platforms like FE-26 (P
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
 <a href="https://www.apachefriends.org/" title="xampp"><img width="32px" src="icons/xampp.svg" /></a>
 <a href="https://www.docker.com/" title="Docker"><img width="32px" src="icons/docker.png" /></a>
+<a href="https://www.nginx.org/" title="Docker"><img width="32px" src="icons/nginx.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
