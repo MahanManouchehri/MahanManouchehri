@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-With over **4 years of experience**, I am a Full-Stack Developer specializing in backend architectures and responsive user interfaces. Backed by a solid foundation from the Sharif Technology Tower, I focus on turning complex challenges into seamless web solutions.
+With over **6 years of experience**, I am a Full-Stack Developer specializing in backend architectures and responsive user interfaces. Backed by a solid foundation from the Sharif Technology Tower, I focus on turning complex challenges into seamless web solutions.
 
 - 🏢 **Current Role:** CEO & Team Lead at DamavandIT.
 - 🛠 **Focus:** Building high-performance web applications and trading platforms.
